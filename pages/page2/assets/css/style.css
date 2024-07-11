@@ -1,0 +1,119 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #348cc7;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #1da1f2;
+    color: rgb(38, 63, 220);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+header .logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+header nav a {
+    color: rgb(36, 102, 233);
+    margin-left: 20px;
+    text-decoration: none;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.tweet-input {
+    display: flex;
+    align-items: center;
+    background-color: rgb(26, 143, 189);
+    border: 1px solid #45ccc7;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+    width: 100%;
+    max-width: 600px;
+}
+
+.tweet-input .avatar {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.tweet-input textarea {
+    flex-grow: 1;
+    border: none;
+    resize: none;
+    font-size: 16px;
+    padding: 10px;
+}
+
+.tweet-input button {
+    background-color: #1da1f2;
+    color: rgb(30, 174, 226);
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.tweet-input button:hover {
+    background-color: #325c77;
+}
+
+.tweets-feed {
+    width: 100%;
+    max-width: 600px;
+}
+
+.tweet {
+    display: flex;
+    align-items: flex-start;
+    background-color: rgb(17, 217, 224);
+    border: 1px solid #16c0c9;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.tweet .avatar {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.tweet-content {
+    flex-grow: 1;
+}
+
+.tweet-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+}
+
+.tweet-header .username {
+    font-weight: bold;
+    margin-right: 5px;
+}
+
+.tweet-header .handle {
+    color: #657786;
+    margin-right: 5px;
+}
+
+.tweet-header .timestamp {
+    color: #657786;
+}

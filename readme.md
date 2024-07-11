@@ -6,10 +6,10 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="https://i.pinimg.com/736x/bb/1a/b3/bb1ab34540ddf16f8003d9da3c52af56.jpg" alt="Nyebe" width="130" height="100">
+    <img src="" alt="" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">WD Seatwork-2-De Gracia</h3>
+  <h3 align="center">WD Seatwork-4-De Gracia</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
@@ -61,16 +61,21 @@ Description of the project in details.
 
 Guiding Question:
 - What is the project
+Seatwork 4
 - Whats the purpose
+To show my fav hero in home and about me
 - What are key components
+animated webpage 
+application type webpage
 - What technology used and how it is used
+The technology used are HTML and CSS 
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- multi page website
+- multi functional webpage
+
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -111,4 +116,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+
