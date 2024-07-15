@@ -60,15 +60,15 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project
-Seatwork 4
-- Whats the purpose
-To show my fav hero in home and about me
-- What are key components
-animated webpage 
-application type webpage
-- What technology used and how it is used
-The technology used are HTML and CSS 
+What is the project 
+- Seatwork 4, this project is a website showcasing two feature pages, one inspired by Apple and the other by Nike. It uses HTML and CSS to create engaging designs.
+ Whats the purpose
+- To show my fav hero in home and about me
+ What are key components
+- nimated webpage 
+- application type webpage
+What technology used and how it is used
+- The technology used are HTML and CSS 
 
 ### Key Components
 <!-- TODO: List of Key Components -->
