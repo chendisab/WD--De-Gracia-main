@@ -61,11 +61,10 @@ Description of the project in details.
 
 Guiding Question:
 What is the project 
-- Seatwork 4, this project is a website showcasing two feature pages, one inspired by Apple and the other by Nike. It uses HTML and CSS to create engaging designs.
+- Seatwork 4, this project is a website showcasing two feature pages, between the anime i love
  Whats the purpose
-- To show my fav hero in home and about me
- What are key components
-- nimated webpage 
+- To show my fav anime and encourage other to watch it.
+- animated webpage 
 - application type webpage
 What technology used and how it is used
 - The technology used are HTML and CSS 
